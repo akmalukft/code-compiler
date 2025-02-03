@@ -12,7 +12,7 @@ An advanced, browser-based code compiler supporting multiple languages like Pyth
 
 ## Installation:
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/online-code-compiler.git`
+   `git clone https://github.com/akmalukft/code-compiler.git`
 2. Install dependencies:  
    `npm install`
 3. Run the app:  
